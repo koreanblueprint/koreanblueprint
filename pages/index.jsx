@@ -560,7 +560,7 @@ export default function KoreanBlueprint() {
             padding: "18px 0", borderTop: "0.5px solid #e8e4de",
             borderBottom: "0.5px solid #e8e4de", marginBottom: "72px",
           }}>
-            {["Made just for you", "Ready in minutes", "Deep, not basic", "Only $9.99 (for now)"].map(s => (
+            {["Built around you", "Ready in minutes", "Deep, not basic", "Only $9.99 (for now)"].map(s => (
               <span key={s} style={{ fontSize: "13px", color: "#9a8f87",
                 display: "flex", alignItems: "center", gap: "7px" }}>
                 <span style={{ width: 5, height: 5, borderRadius: "50%",
